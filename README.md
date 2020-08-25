@@ -20,7 +20,7 @@ docker-compose up -d
 - コマンド実行後、下記にアクセスすると、Jupyterlabが起動する
 
 ```
-https://localhost:8888
+http://localhost:888/lab8
 ```
 
 - 終了したい時は以下のコマンドを実行する
